@@ -1,0 +1,2 @@
+This python script can take normal user input and convert it into a SQL Query using openAI API and then return the result of that query on any file
+File will be converted into a database automatically.
