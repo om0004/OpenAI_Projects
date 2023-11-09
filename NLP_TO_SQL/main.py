@@ -5,7 +5,6 @@ import pandas as pd
 import openai
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
-os.environ['OPENAI_API_KEY'] = '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'
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 def main():
