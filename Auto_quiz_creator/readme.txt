@@ -1,0 +1,1 @@
+This python script can automatically create a quiz based on inputs(topic, number of questions and options per question) and users can attempt the quiz in real time and get grading for the answers provided.
